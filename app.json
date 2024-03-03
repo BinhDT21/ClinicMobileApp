@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ClinicMobileApp",
+    "slug": "ClinicMobileApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "automatic"
+  },
+  "name": "ClinicMobileApp"
+}
